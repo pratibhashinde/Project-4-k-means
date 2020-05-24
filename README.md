@@ -3,7 +3,7 @@ K-Means is the simplest model for clustering out the given unlabelled data.
 
 Note: K-means model is imported from sklearn.cluster library.
 
-Steps to be followed:
+**Steps to be followed:**
 
 -Import required libraries.
 
